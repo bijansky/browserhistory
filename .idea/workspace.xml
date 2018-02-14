@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f82c4e7f-f51f-4ffb-b71b-7fc3d4a6844c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/style.css" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="f82c4e7f-f51f-4ffb-b71b-7fc3d4a6844c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -88,7 +84,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-48" />
+    <option name="x" value="4" />
     <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="730" />
@@ -193,7 +189,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-48" y="22" width="1280" height="730" extended-state="0" />
+    <frame x="4" y="22" width="1280" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
